@@ -11,16 +11,12 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 - Integración con nómina o evaluaciones según el entorno.  
 - Acceso multiusuario con roles diferenciados (administrador, supervisor, usuario).
 
----
-
 ## Objetivos del Proyecto
 - Digitalizar el proceso de control de asistencia en instituciones académicas o laborales.  
 - Garantizar la seguridad, disponibilidad y confiabilidad de la información.  
 - Proveer una interfaz intuitiva y accesible para todos los actores del sistema.  
 - Permitir la generación de reportes automáticos y alertas ante patrones de inasistencia.  
 - Integrar nuevas tecnologías (como reconocimiento facial) que mejoren la precisión y experiencia del usuario.
-
----
 
 ## Requerimientos Funcionales
 
@@ -32,8 +28,6 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | **RF04** | Autenticación de usuarios | Asegurar el acceso controlado y seguro al sistema. |
 | **RF05** | Notificaciones por inasistencias | Alertar sobre ausencias reiteradas para intervención temprana. |
 
----
-
 ## 🧪 Tabla de Pruebas (Ejemplo de Plan de Verificación)
 
 | Caso de Prueba | Requerimiento Asociado | Entrada | Resultado Esperado | Estado |
@@ -44,9 +38,7 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | CP04 | RF04 | Login incorrecto | Acceso denegado | ✅ Aprobado |
 | CP05 | RF06 | Rostro reconocido | Registro automático correcto | ⚙️ En desarrollo |
 
----
-
-## 🔧 Tipo de Mantenimiento Propuesto
+## Tipo de Mantenimiento Propuesto
 
 | Tipo de Mantenimiento | Descripción | Ejemplo |
 |:----------------------|:-------------|:----------|
@@ -55,34 +47,8 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | **Perfectivo** | Mejora funcionalidades o experiencia del usuario. | Implementar reportes automáticos y mejorar la interfaz. |
 | **Adaptativo** | Ajusta el sistema a cambios externos o nuevos entornos. | Adaptar la app a una nueva versión de Android. |
 
----
-
 ## 💬 Reflexión sobre el Control de Versiones
 
-El uso de **control de versiones (Git/GitHub)** ha sido clave para la organización y evolución del proyecto.  
-Gracias a su implementación se logró:
-- Llevar un **historial claro de cambios** en los documentos y el código.  
-- Permitir el **trabajo colaborativo** entre los integrantes del equipo sin conflictos.  
-- Controlar versiones de requerimientos, pruebas y propuestas de mantenimiento.  
-- Garantizar **trazabilidad** entre los artefactos generados (DRS, pruebas, evidencias).  
 
-El control de versiones no solo facilita la gestión técnica, sino que refuerza la **disciplina de trabajo en equipo y documentación profesional** dentro del ciclo de vida del software.
-
----
-
-## 👥 Autores
-- Alfredo Josua Cruz Chalen  
-- María José Calle Cevallos  
-- Jimmy Andrés Ochoa Cabezas  
-- Nahin Bolívar Guillín Guerrero  
-- Jordy Alexis Bajaña Guamán  
-
-**Asignatura:** Introducción a la Ingeniería en Software  
-**Docente:** Jorge Dumar Guevara Serrano  
-**Periodo:** Agosto 2025 – Diciembre 2026  
-**Fecha de Entrega:** 05/11/2025  
-
----
-
-## 📂 Estructura del Repositorio
+El control de versiones no solo facilita la gestión técnica, sino que refuerza la disciplina de trabajo en equipo y documentación profesional dentro del ciclo de vida del software.
 
