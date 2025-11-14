@@ -25,13 +25,13 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 
 ##  Tabla de Pruebas (Ejemplo de Plan de Verificación)
 
-| Caso de Prueba | Requerimiento Asociado | Entrada | Resultado Esperado | Estado |
+ Requerimiento Asociado | Entrada | Resultado Esperado | Estado |
 |:----------------|:----------------------|:--------|:-------------------|:-------|
-| CP01 | RF01 | Usuario escanea QR | Registro exitoso de entrada | ✅ Aprobado |
-| CP02 | RF02 | Consulta de estudiante | Muestra historial correcto | ✅ Aprobado |
-| CP03 | RF03 | Solicitud de reporte mensual | Genera documento PDF | ✅ Aprobado |
-| CP04 | RF04 | Login incorrecto | Acceso denegado | ✅ Aprobado |
-| CP05 | RF06 | Rostro reconocido | Registro automático correcto | ⚙️ En desarrollo |
+ RF01 | Usuario escanea QR | Registro exitoso de entrada |  Aprobado |
+ RF02 | Consulta de estudiante | Muestra historial correcto |  Aprobado |
+ RF03 | Solicitud de reporte mensual | Genera documento PDF |  Aprobado |
+ RF04 | Login incorrecto | Acceso denegado |  Aprobado |
+ RF06 | Rostro reconocido | Registro automático correcto |  En desarrollo |
 ## Tipo de Mantenimiento Propuesto
 | Tipo de Mantenimiento | Descripción | Ejemplo |
 |:----------------------|:-------------|:----------|
