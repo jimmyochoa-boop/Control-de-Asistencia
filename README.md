@@ -40,8 +40,8 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | **Perfectivo** | Mejora funcionalidades o experiencia del usuario. | Implementar reportes automáticos y mejorar la interfaz. |
 | **Adaptativo** | Ajusta el sistema a cambios externos o nuevos entornos. | Adaptar la app a una nueva versión de Android. |
 
-## 💬 Reflexión sobre el Control de Versiones
+## Reflexión final
 
 
-El control de versiones no solo facilita la gestión técnica, sino que refuerza la disciplina de trabajo en equipo y documentación profesional dentro del ciclo de vida del software.
+El control de asistencias de forma moderna no solo facilita la gestión técnica, sino que refuerza la documentación profesional dentro del ciclo de vida del software, por otro lado, las pruebas de validación y la documentacion aseguran que el sistema, en su conjunto, cumpla los objetivos operacionales y que cumpla con las necesidades del usuario final. Este enfoque sistemático reduce el riesgo de errores en producción.
 
