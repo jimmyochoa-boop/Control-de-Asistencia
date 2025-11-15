@@ -3,6 +3,7 @@ Aplicación de Control de Asistencia
  Descripción del Caso
 La Aplicación de Control de Asistencia es un sistema diseñado para registrar, gestionar y monitorear la presencia de estudiantes, empleados u otros usuarios dentro de una organización.  
 Su objetivo principal es automatizar el seguimiento de asistencia, reducir errores manuales y ofrecer **reportes precisos en tiempo real**.
+
 Funcionalidades principales
 - Registro de entrada y salida mediante credenciales, códigos QR, huella digital o geolocalización.  
 - Panel administrativo para estadísticas, reportes y gestión de horarios.  
@@ -16,6 +17,7 @@ Funcionalidades principales
 - Permitir la generación de reportes automáticos y alertas ante patrones de inasistencia.  
 - Integrar nuevas tecnologías (como reconocimiento facial) que mejoren la precisión y experiencia del usuario.
  Requerimientos Funcionales
+
 | Código | Funcionalidad | Propósito |
 |:-------:|:--------------|:----------|
 | **RF01** | Registro de asistencia | Facilitar el control diario de asistencia. |
@@ -33,7 +35,9 @@ Funcionalidades principales
  RF03 | Solicitud de reporte mensual | Genera documento PDF |  Aprobado |
  RF04 | Login incorrecto | Acceso denegado |  Aprobado |
  RF06 | Rostro reconocido | Registro automático correcto |  En desarrollo |
+ 
  Tipo de Mantenimiento Propuesto
+
 | Tipo de Mantenimiento | Descripción | Ejemplo |
 |:----------------------|:-------------|:----------|
 | **Correctivo** | Corrige errores o fallos detectados en uso. | Arreglar un error al registrar hora de entrada. |
