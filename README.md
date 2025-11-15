@@ -28,8 +28,7 @@ Funcionalidades principales
 
  Tabla de Pruebas (Ejemplo de Plan de Verificación)
 
- Requerimiento Asociado | Entrada | Resultado Esperado | Estado |
-|:----------------|:----------------------|:--------|:-------------------|:-------|
+
  RF01 | Usuario escanea QR | Registro exitoso de entrada |  Aprobado |
  RF02 | Consulta de estudiante | Muestra historial correcto |  Aprobado |
  RF03 | Solicitud de reporte mensual | Genera documento PDF |  Aprobado |
