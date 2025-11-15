@@ -37,7 +37,8 @@ Permite que el software continúe funcionando cuando cambian las condiciones ext
 Priorización
 
 Las intervenciones se clasificarán según su criticidad:
-Alta: errores que bloquean el registro o comprometen seguridad.
-Media: problemas que afectan funcionalidades secundarias.
-Baja: mejoras estéticas o ajustes no urgentes.
+
+- Alta: errores que bloquean el registro o comprometen seguridad.
+- Media: problemas que afectan funcionalidades secundarias.
+- Baja: mejoras estéticas o ajustes no urgentes.
 
