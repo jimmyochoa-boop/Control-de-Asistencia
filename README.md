@@ -1,4 +1,4 @@
-## Aplicación de Control de Asistencia
+# Aplicación de Control de Asistencia
 
 ## Descripción del Caso
 La Aplicación de Control de Asistencia es un sistema diseñado para registrar, gestionar y monitorear la presencia de estudiantes, empleados u otros usuarios dentro de una organización. Su objetivo principal es automatizar el seguimiento de asistencia, reducir errores manuales y ofrecer reportes precisos en tiempo real.
