@@ -1,20 +1,21 @@
-#  Caso Seleccionado: Aplicación de Control de Asistencia
-## Descripción del Caso
+Aplicación de Control de Asistencia
+
+ Descripción del Caso
 La Aplicación de Control de Asistencia es un sistema diseñado para registrar, gestionar y monitorear la presencia de estudiantes, empleados u otros usuarios dentro de una organización.  
 Su objetivo principal es automatizar el seguimiento de asistencia, reducir errores manuales y ofrecer **reportes precisos en tiempo real**.
-### Funcionalidades principales
+Funcionalidades principales
 - Registro de entrada y salida mediante credenciales, códigos QR, huella digital o geolocalización.  
 - Panel administrativo para estadísticas, reportes y gestión de horarios.  
 - Alertas automáticas por ausencias o retardos.  
 - Integración con nómina o evaluaciones según el entorno.  
 - Acceso multiusuario con roles diferenciados (administrador, supervisor, usuario).
-## Objetivos del Proyecto
+ Objetivos del Proyecto
 - Digitalizar el proceso de control de asistencia en instituciones académicas o laborales.  
 - Garantizar la seguridad, disponibilidad y confiabilidad de la información.  
 - Proveer una interfaz intuitiva y accesible para todos los actores del sistema.  
 - Permitir la generación de reportes automáticos y alertas ante patrones de inasistencia.  
 - Integrar nuevas tecnologías (como reconocimiento facial) que mejoren la precisión y experiencia del usuario.
-## Requerimientos Funcionales
+ Requerimientos Funcionales
 | Código | Funcionalidad | Propósito |
 |:-------:|:--------------|:----------|
 | **RF01** | Registro de asistencia | Facilitar el control diario de asistencia. |
@@ -23,7 +24,7 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | **RF04** | Autenticación de usuarios | Asegurar el acceso controlado y seguro al sistema. |
 | **RF05** | Notificaciones por inasistencias | Alertar sobre ausencias reiteradas para intervención temprana. |
 
-##  Tabla de Pruebas (Ejemplo de Plan de Verificación)
+ Tabla de Pruebas (Ejemplo de Plan de Verificación)
 
  Requerimiento Asociado | Entrada | Resultado Esperado | Estado |
 |:----------------|:----------------------|:--------|:-------------------|:-------|
@@ -32,7 +33,7 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
  RF03 | Solicitud de reporte mensual | Genera documento PDF |  Aprobado |
  RF04 | Login incorrecto | Acceso denegado |  Aprobado |
  RF06 | Rostro reconocido | Registro automático correcto |  En desarrollo |
-## Tipo de Mantenimiento Propuesto
+ Tipo de Mantenimiento Propuesto
 | Tipo de Mantenimiento | Descripción | Ejemplo |
 |:----------------------|:-------------|:----------|
 | **Correctivo** | Corrige errores o fallos detectados en uso. | Arreglar un error al registrar hora de entrada. |
@@ -40,7 +41,7 @@ Su objetivo principal es automatizar el seguimiento de asistencia, reducir error
 | **Perfectivo** | Mejora funcionalidades o experiencia del usuario. | Implementar reportes automáticos y mejorar la interfaz. |
 | **Adaptativo** | Ajusta el sistema a cambios externos o nuevos entornos. | Adaptar la app a una nueva versión de Android. |
 
-## Reflexión final
+ Reflexión final
 
 
 El control de asistencias de forma moderna no solo facilita la gestión técnica, sino que refuerza la documentación profesional dentro del ciclo de vida del software, por otro lado, las pruebas de validación y la documentacion aseguran que el sistema, en su conjunto, cumpla los objetivos operacionales y que cumpla con las necesidades del usuario final. Este enfoque sistemático reduce el riesgo de errores en producción.
