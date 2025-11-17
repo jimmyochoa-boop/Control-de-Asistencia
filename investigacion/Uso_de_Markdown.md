@@ -4,21 +4,6 @@ Markdown es un lenguaje de marcado ligero que permite dar formato a textos de ma
 
 Su sintaxis simple facilita la colaboración dentro de equipos de desarrollo y permite mantener documentación organizada directamente dentro del repositorio.
 
-- Ejemplo práctico de uso de Markdown
-
-### Encabezados
-# Título principal
-## Subtítulo
-### Sección
-
-- Listas
-
-### Lista ordenada
-
-1. Primer paso
-2. Segundo paso
-3. Tercer paso
-
 
 ### Lista no ordenada
 
